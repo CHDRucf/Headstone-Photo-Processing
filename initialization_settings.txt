@@ -1,0 +1,20 @@
+Working Folder: 
+Image Folder: images
+Data File: data.csv
+Destination Folder: complete
+Error Folder: errors
+Feedback Folder: feedback
+Processed Originals Folder: processed_originals
+Log File: log.txt
+User Feedback: Full
+Fuzzy Matches: Request Confirmation
+Fuzziness Threshold: 50
+Confirmation Tolerance: 5
+Cropping Buffer: 0
+OCR Technique: Tesseract
+Label Format: {Section}-{Site}
+Macro Rotate: True
+Micro Rotate: True
+Crop: True
+OCR: True
+Label: True
